@@ -1,2 +1,8 @@
 # Rumble-Dash
-A 2D Platform Racing Game where you collect power ups and try to stay on the screen. As the camera moves through the track you have to try and keep up else you'll be left behind and disqualified. The last person to be disqualified wins. Can be from 1-4 players.
+Open sky... rolling fields.. Questionable land planning… This is Sunshine Valley.
+Home to the annual Rumble Dash, these adorable rural villagers live their lives in the hopes of one day competing in the prestigious Rumble Dash, to bring fame, glory, and purpose to their lives….
+Cuties must compete to reach the flag before their opponent while avoiding treacherous objects and the tiny fury of their fellow competitor! 
+Can you help these cuties rumble their way to victory?
+Be there, or be square!
+Coming March 2017 at Games Fleadh
+

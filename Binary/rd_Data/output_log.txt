@@ -1,0 +1,41 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600G (ID=0x9908)
+    Vendor:   ATI
+    VRAM:     736 MB
+    Driver:   15.200.1055.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MaddField\Desktop\gamesfleadh\Rumble Dash\RumbleDash_Game\rd_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.603788 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.356165 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1811.
+Total: 1.503605 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.076943 ms MarkObjects: 1.074644 ms  DeleteObjects: 0.135933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.610950 ms
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.975259 ms (FindLiveObjects: 0.063478 ms CreateObjectMapping: 0.043601 ms MarkObjects: 0.483461 ms  DeleteObjects: 0.382794 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2af4 -> priority: 1 
